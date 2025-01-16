@@ -2,7 +2,7 @@ export const constrains = {
   footer: '0',
   header: '0',
   pumpFunLink: '',
-  siteName: 'cats',
+  siteName: 'CAT',
   token: '',
   xLink: ''
 };
